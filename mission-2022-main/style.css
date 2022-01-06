@@ -94,7 +94,16 @@ b{
     background-position: right;
     background-position-x: right ;
 }
+.corona{
+    background-image: url(./images/270085720_996300467642084_4989487017925692350_n.jpg); 
+    
+    width: 100%;
+    border: khaki;
+}
+.pera-color{
+    color: rgb(140, 240, 145);
+}
 footer{
     text-align: center;
-    background-color: rgb(255, 0, 0);
+    background-color: red;
 }
